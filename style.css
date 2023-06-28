@@ -1,0 +1,27 @@
+body
+{
+background-position: center;
+background-size: cover;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#a1,#a2,#a3,#a4,#a5
+{
+font-size: 23px;
+margin: 0px;
+background-color: rgb(170, 86, 47);
+}
+
+#ac,#calc,#fruits,#pic,#soap
+{
+    border-radius: 10px;
+    background-color:rgb(207, 147, 93);
+    width: 300px;
+}
+

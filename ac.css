@@ -1,0 +1,40 @@
+body
+{
+background-position: center;
+background-size: cover;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#back
+{
+    border-radius: 10px;
+    background-color:rgb(207, 147, 93);
+    width: 100px;
+    float: right;
+}
+
+#status
+{
+    font-size: 18px;
+    color: white;
+    background-color: rgb(29, 107, 19);
+}
+
+#detect
+{
+    font-size: 18px;
+    background-color: rgb(255, 253, 146);
+}
+
+canvas
+{
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px;
+margin-top: 30px;
+}
